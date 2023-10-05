@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+[![An image of @avhiraj09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avhiraj09)](https://holopin.io/@avhiraj09)
 <!---
 avhiraj09/avhiraj09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-An image of @avhiraj09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avhiraj09)(https://holopin.io/@avhiraj09)
